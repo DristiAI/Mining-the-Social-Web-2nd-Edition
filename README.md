@@ -1,6 +1,6 @@
 Mining the Social Web (2nd Edition)
 =================================
-
+https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/
 ## Summary
 
 _Mining the Social Web, 2nd Edition_ is available through O'Reilly Media, Amazon, and other fine book retailers. [Purchasing the ebook directly from O'Reilly](http://bit.ly/135dHfs) offers a number of great benefits, including a variety of digital formats and continual updates to the text of book for life! Better yet, if you choose to use O'Reilly's DropBox or Google Drive synchronization, your ebooks will automatically update every time there's an update. In other words, you'll always have the latest version of the book if you purchase the ebook through O'Reilly, which is why it's the recommended option in comparison to a paper copy or other electronic version. (If you prefer a [paperback or Kindle version from Amazon](http://amzn.to/GPd59m), that's a fine option as well.)
